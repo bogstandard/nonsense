@@ -14,7 +14,7 @@ This dice has 6 faces, 5 are numeric and represent Distance, the values of these
 These two dice combine to provide three possible meaningful results: Scatters, Hit and Misfire. Scatters occurs when a Direction and Distance result are gained. Hit occurs when a Hit is gained without Misfire. Misfire is occurs when Misfire occurs, cancelling out all other results. These meaninful results are astrixed (*) in the tables of this document.
 
 ### Probabilities 
-Below is a table which details the possible results of the GW dice and their decimal chance of occurance. The meaningful result of Scatters is equal to *Direction x Distance*, because Scatters depends on both occurring. The meaningful result of Hit is equal to *Organic Hit (1/6) x Distance*, because a Meaningful Hit cannot occur if a misfire occurs, it is not a straight 1/6 chance. *However* because the original GW Dice are seperate entities, this calculation for Meaningful Hits is ignored and the original 2/6 odds are respected (coming to this conclusion caused me a great deal of anguish but I believe it true).
+Below is a table which details the possible results of the GW dice and their decimal chance of occurance. The meaningful result of Scatters is equal to *Direction x Distance*, because Scatters depends on both occurring. The meaningful result of Hit is equal to *Organic Hit (2/6) x Distance*, because a Meaningful Hit cannot occur if a misfire occurs, it is not a straight 2/6 chance. *However* because the original GW Dice are seperate entities, this calculation for Meaningful Hits is ignored and the original 2/6 odds are respected (coming to this conclusion caused me a great deal of anguish but I believe it true).
  
 
 
