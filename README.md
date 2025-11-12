@@ -8,5 +8,7 @@ If this repository gains enough textual weight it will be refactored into a blog
 - [Substituting GW Scatter & Artillery Dice with D10 (sort of)](https://github.com/bogstandard/nonsense/blob/main/GW-Scatter-Artillery-Dice-D10-Substitution.md) – Outlines a system of using a single D10 dice as substitute for a set of Games Workshop Scatter & Artillery Dice with a focus of probability accuracy. This is system is long-winded, daft and best ignored.
 
 ## Mordheim Match Reports
+It's fun to paint little figurines but it's even more fun to play with them. This will be a growing list of crude match reports.
+
 - [Mordheim Report  - Tallow Men v S-o-Sommershire](https://github.com/bogstandard/nonsense/blob/main/Mordheim%20Report%20%20-%20Tallow%20Men%20v%20S-o-Sommershire.md) ~ 30th November 2025
 - [Mordheim Report - Tallow Men v Ritta & Crew o Jammit Dodger](https://github.com/bogstandard/nonsense/blob/main/Mordheim%20Report%20%20-%20Tallow%20Men%20v%20Ritta%20%26%20Crew%20o%20Jammit%20Dodger.md) ~ 12 November 2025
