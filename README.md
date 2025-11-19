@@ -10,7 +10,7 @@ If this repository gains enough textual weight it will be refactored into a blog
 ## Mordheim Match Reports
 It's fun to paint little figurines but it's even more fun to play with them. This will be a growing list of crude match reports.
 
-Read all the formatted match reports in issues of [THE BELL TOLL](https://github.com/bogstandard/nonsense/blob/main/THE%20BELL%20TOLL%20-%20ISSUES%20SO%20FAR.pdf)
+Read all the formatted match reports in issues of [THE BELL TOLL](https://github.com/bogstandard/nonsense/blob/main/THE%20BELL%20TOLL%20Feat%20MFLG%20%26%20DoA%20-%20ISSUES%20SO%20FAR.pdf)
 
 If you prefer plaintext, they're also available below. 
 
