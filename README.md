@@ -10,5 +10,9 @@ If this repository gains enough textual weight it will be refactored into a blog
 ## Mordheim Match Reports
 It's fun to paint little figurines but it's even more fun to play with them. This will be a growing list of crude match reports.
 
+Read all the formatted match reports in issues of [THE BELL TOLL](https://github.com/bogstandard/nonsense/blob/main/THE%20BELL%20TOLL%20-%20ISSUES%20SO%20FAR.pdf)
+
+If you prefer plaintext, they're also available below. 
+
 - [Mordheim Report  - Tallow Men v S-o-Sommershire](https://github.com/bogstandard/nonsense/blob/main/Mordheim%20Report%20%20-%20Tallow%20Men%20v%20S-o-Sommershire.md) ~ 29 October 2025
 - [Mordheim Report - Tallow Men v Ritta & Crew o Jammit Dodger](https://github.com/bogstandard/nonsense/blob/main/Mordheim%20Report%20%20-%20Tallow%20Men%20v%20Ritta%20%26%20Crew%20o%20Jammit%20Dodger.md) ~ 12 November 2025
