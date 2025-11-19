@@ -10,5 +10,5 @@ If this repository gains enough textual weight it will be refactored into a blog
 ## Mordheim Match Reports
 It's fun to paint little figurines but it's even more fun to play with them. This will be a growing list of crude match reports.
 
-- [Mordheim Report  - Tallow Men v S-o-Sommershire](https://github.com/bogstandard/nonsense/blob/main/Mordheim%20Report%20%20-%20Tallow%20Men%20v%20S-o-Sommershire.md) ~ 12 November 2025
-- [Mordheim Report - Tallow Men v Ritta & Crew o Jammit Dodger](https://github.com/bogstandard/nonsense/blob/main/Mordheim%20Report%20%20-%20Tallow%20Men%20v%20Ritta%20%26%20Crew%20o%20Jammit%20Dodger.md) ~ 30 November 2025
+- [Mordheim Report  - Tallow Men v S-o-Sommershire](https://github.com/bogstandard/nonsense/blob/main/Mordheim%20Report%20%20-%20Tallow%20Men%20v%20S-o-Sommershire.md) ~ 30 October 2025
+- [Mordheim Report - Tallow Men v Ritta & Crew o Jammit Dodger](https://github.com/bogstandard/nonsense/blob/main/Mordheim%20Report%20%20-%20Tallow%20Men%20v%20Ritta%20%26%20Crew%20o%20Jammit%20Dodger.md) ~ 12 November 2025
